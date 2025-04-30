@@ -1,0 +1,18 @@
+# Core
+streamlit
+langchain
+langchain-community
+langchain-groq
+huggingface-hub
+faiss-cpu
+transformers
+torch
+sentence-transformers
+
+# Document loaders
+PyMuPDF  # for PDF support via PyPDFLoader
+docx2txt
+
+# Optional (depending on your usage)
+tqdm
+regex
