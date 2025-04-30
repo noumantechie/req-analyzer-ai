@@ -4,7 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-FF4B4B)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.1.0-00B0B9)](https://github.com/langchain-ai/langchain)
 
-![AI Requirements Engineer Banner](https://raw.githubusercontent.com/yourusername/ai-requirements-engineer/main/assets/banner.png)
 
 ## 🚀 Overview
 
